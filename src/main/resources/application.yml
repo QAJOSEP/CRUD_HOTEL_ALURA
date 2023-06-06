@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/borrar_esto
+    username: root
+    password: M@xico12
+  jpa:
+    hibernate:
+      ddl-auto: update
